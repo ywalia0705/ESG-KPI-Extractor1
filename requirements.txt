@@ -1,10 +1,8 @@
 streamlit
-pdfplumber
-python-docx
 pandas
-pytesseract
-Pillow
-openpyxl
+pdfplumber
 docx2txt
-python-pptx
-PyMuPDF
+openpyxl
+python-docx
+pillow
+pytesseract
