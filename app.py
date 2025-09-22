@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import pdfplumber
 import docx2txt
 import tempfile
 import re
