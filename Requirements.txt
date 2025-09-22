@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+python-docx
+pandas
+pytesseract
+Pillow
+openpyxl
+docx2txt
+python-pptx
+PyMuPDF
